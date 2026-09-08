@@ -5,15 +5,15 @@ about:
   head: 26b6a9b
   archived: false
   latestVersion: "cli-latest"
-  collectedAt: 2026-09-08T03:28:25Z
+  collectedAt: 2026-09-08T06:06:05Z
 timeline:
   created: 2023-08-22
   lastCommit: 2026-09-07
   lastRelease: 2026-04-24
 popularity:
-  star: 18295
+  star: 18335
   watcher: 76
-  fork: 1144
+  fork: 1146
   release: 15
   contributor: 50
   pullRequest: 814
@@ -114,7 +114,7 @@ total:
   commit: 1778
 ---
 path: /home/runner/.x-repo/github.com/google/magika
-collectedAt: 2026-09-08T03:28:30Z
+collectedAt: 2026-09-08T06:06:11Z
 loc:
   Json:
     code: 25411
