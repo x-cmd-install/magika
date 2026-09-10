@@ -4,7 +4,7 @@
 
 Fast and accurate AI powered file content types detection 
 
-![magika](https://repo.x-cmd.io/magika.svg)
+![magika](https://repo.x-cmd.io/magika.svg?lang=zh)
 
 ## 安装
 
@@ -12,44 +12,15 @@ Fast and accurate AI powered file content types detection
 x install magika
 ```
 
-## 源代码
-
-- **上游仓库**: <https://github.com/google/magika>
-- **官网**: <https://securityresearch.google/magika/>
-- **许可证**: Apache-2.0
-
-## 发布
-
-- **最新版本**: `cli-latest` (2026-04-24)
-- **最近提交**: 2026-09-09
-- **Release 含资产**: 16 个
-- **发布时间**: 2026-04-24T14:51:08Z
-
-## 流行度
-
-- **Star**: 18,527 · **Fork**: 1,162 · **开放 issue**: 634 · **贡献者**: 51
-
-## 累计统计
-
-- **发布数**: 15 · **已合并 PR**: 510 · **开放 PR**: 48 · **已关闭 issue**: 518 · **开放 issue**: 116 · **提交数**: 1786
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 10 | 7 | 2 | 6 | 11 |
-| 90d | 2026-06-12 | 0 | 15 | 15 | 2 | 11 | 22 |
-| 360d | 2025-09-15 | 7 | 136 | 47 | 36 | 45 | 230 |
-
 ## 代码规模
 
-合计: **44,331** 行代码（覆盖前 5 种语言、共 **172** 个文件）。
+合计: **44,573** 行代码（覆盖前 5 种语言、共 **172** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 25,411 | 0 | 0 | 54 |
 | Rust | 8,120 | 388 | 727 | 26 |
-| Python | 4,318 | 625 | 885 | 34 |
+| Python | 4,562 | 643 | 947 | 34 |
 | TypeScript | 3,179 | 503 | 200 | 43 |
 | Go | 690 | 95 | 85 | 15 |
 
@@ -61,7 +32,69 @@ x install magika
 
 - **Binary-Artifacts** (2/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
+
+## 源代码
+
+- **上游仓库**: <https://github.com/google/magika>
+- **官网**: <https://securityresearch.google/magika/>
+- **许可证**: Apache-2.0
+
+## 发布
+
+- **最新版本**: `cli-latest` (2026-04-24)
+- **最近提交**: 2026-09-10
+- **Release 含资产**: 16 个
+
+## 流行度
+
+- **Star**: 18,544 · **Fork**: 1,161 · **开放 issue**: 634 · **贡献者**: 51
+
+## 累计统计
+
+- **发布数**: 15 · **已合并 PR**: 512 · **开放 PR**: 48 · **已关闭 issue**: 518 · **开放 issue**: 116 · **提交数**: 1789
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 12 | 7 | 2 | 6 | 13 |
+| last60d | 2026-07-12 | 0 | 16 | 15 | 2 | 9 | 23 |
+| 90d | 2026-06-12 | 0 | 17 | 15 | 2 | 11 | 24 |
+| last180d | 2026-03-14 | 2 | 43 | 38 | 13 | 21 | 53 |
+| 360d | 2025-09-15 | 7 | 138 | 47 | 36 | 45 | 232 |
+| last720d | 2024-09-20 | 15 | 335 | 48 | 145 | 77 | 992 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dist-manifest.json](https://github.com/google/magika/releases/download/cli/v1.1.0/dist-manifest.json) | 19.7 KiB | `other` |
+| [magika-cli-aarch64-apple-darwin-update](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-apple-darwin-update) | 6.9 MiB | `native/darwin/arm64` |
+| [magika-cli-aarch64-apple-darwin.tar.xz](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-apple-darwin.tar.xz) | 7.4 MiB | `native/darwin/arm64` |
+| [magika-cli-aarch64-apple-darwin.tar.xz.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-apple-darwin.tar.xz.sha256) | 106 B | `native/darwin/arm64` |
+| [magika-cli-aarch64-unknown-linux-gnu-update](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-unknown-linux-gnu-update) | 5.9 MiB | `native/linux/arm64/glibc` |
+| [magika-cli-aarch64-unknown-linux-gnu.tar.xz](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-unknown-linux-gnu.tar.xz) | 8.7 MiB | `native/linux/arm64/glibc` |
+| [magika-cli-aarch64-unknown-linux-gnu.tar.xz.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-unknown-linux-gnu.tar.xz.sha256) | 111 B | `native/linux/arm64/glibc` |
+| [magika-cli-installer.ps1](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-installer.ps1) | 21.6 KiB | `other` |
+| [magika-cli-installer.sh](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-installer.sh) | 52.1 KiB | `other` |
+| [magika-cli-x86_64-pc-windows-msvc-update](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-pc-windows-msvc-update) | 5.9 MiB | `native/win/x64` |
+| [magika-cli-x86_64-pc-windows-msvc.zip](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-pc-windows-msvc.zip) | 9.6 MiB | `native/win/x64` |
+| [magika-cli-x86_64-pc-windows-msvc.zip.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-pc-windows-msvc.zip.sha256) | 105 B | `native/win/x64` |
+| [magika-cli-x86_64-unknown-linux-gnu-update](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu-update) | 8.7 MiB | `native/linux/x64/glibc` |
+| [magika-cli-x86_64-unknown-linux-gnu.tar.xz](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz) | 8.2 MiB | `native/linux/x64/glibc` |
+| [magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
+| [sha256.sum](https://github.com/google/magika/releases/download/cli/v1.1.0/sha256.sum) | 429 B | `other` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/magika) 上共有 **12** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**7** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.0.2` | ⚠️ outdated |
+| Nix unstable | `1.0.3` | ⚠️ outdated |
+| Alpine edge | `1.1.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -72,4 +105,4 @@ magika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:26:39Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:18:31Z._
