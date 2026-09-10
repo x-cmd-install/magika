@@ -7,7 +7,7 @@ about:
   latestVersion: "cli-latest"
   latestRelease: "cli-latest"
   latestPrerelease: "python-v0.6.1-rc3"
-  collectedAt: 2026-09-10T20:18:13Z
+  collectedAt: 2026-09-10T23:27:58Z
 timeline:
   created: 2023-08-22
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-04-24
   lastPrerelease: 2025-03-17
 popularity:
-  star: 18544
+  star: 18546
   watcher: 77
   fork: 1161
   release: 15
@@ -120,7 +120,7 @@ total:
   commit: 1789
 ---
 path: /home/runner/.x-repo/github.com/google/magika
-collectedAt: 2026-09-10T20:18:23Z
+collectedAt: 2026-09-10T23:28:11Z
 loc:
   Json:
     code: 25411
