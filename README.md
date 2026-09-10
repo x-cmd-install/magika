@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,544 · **Forks**: 1,161 · **Open issues**: 634 · **Contributors**: 51
+- **Stars**: 18,546 · **Forks**: 1,161 · **Open issues**: 634 · **Contributors**: 51
 
 ## Totals (cumulative)
 
@@ -105,4 +105,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:18:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T23:28:20Z._
