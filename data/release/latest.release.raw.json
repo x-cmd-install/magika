@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 20128,
       "digest": "sha256:3e3e66b0c2690b86302f3f48735408219f95852557fd3833cdb49406767367a3",
-      "download_count": 97,
+      "download_count": 99,
       "created_at": "2026-04-24T14:51:05Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/dist-manifest.json"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 7276512,
       "digest": "sha256:8e982b05534c5468aca477d6bd85642bfa20ce03291e93ed0829f305fa4a22fb",
-      "download_count": 63,
+      "download_count": 64,
       "created_at": "2026-04-24T14:51:05Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-apple-darwin-update"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7732708,
       "digest": "sha256:54b89c59e9ff024699066178c45e58d731833cc25b7c139b42857d5d31b7b804",
-      "download_count": 222,
+      "download_count": 225,
       "created_at": "2026-04-24T14:51:05Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-apple-darwin.tar.xz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 106,
       "digest": "sha256:6f8a0339c6eaf39cc0bf5b0023857125411160d82bd741a6c3592bdca4c511ea",
-      "download_count": 109,
+      "download_count": 111,
       "created_at": "2026-04-24T14:51:05Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-apple-darwin.tar.xz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6162640,
       "digest": "sha256:93a07f279d132dcb9b1b822968627d5f1431955e1efc59f13c9ee6203bf8944b",
-      "download_count": 176,
+      "download_count": 178,
       "created_at": "2026-04-24T14:51:05Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-unknown-linux-gnu-update"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 9100180,
       "digest": "sha256:2183e4745e1f0e59d1b7066d1ff88fe409b38c9ebf119a9de6a81afd10e6aaf7",
-      "download_count": 358,
+      "download_count": 361,
       "created_at": "2026-04-24T14:51:06Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-unknown-linux-gnu.tar.xz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 111,
       "digest": "sha256:7c41f5ceefda0973717dace53561c1a2839c25e88081b1cdad9e7636701c2f90",
-      "download_count": 114,
+      "download_count": 117,
       "created_at": "2026-04-24T14:51:06Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-aarch64-unknown-linux-gnu.tar.xz.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 22144,
       "digest": "sha256:cc4b4d083e15b81322cce4baeedeee0850bf4c8dc9cec9b677855cf5b70233f3",
-      "download_count": 157,
+      "download_count": 160,
       "created_at": "2026-04-24T14:51:06Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-installer.ps1"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 53321,
       "digest": "sha256:9415d63e82f9831a6a814297565f1e45b4977442ee534728e52521d6c25f1ae7",
-      "download_count": 345,
+      "download_count": 370,
       "created_at": "2026-04-24T14:51:06Z",
       "updated_at": "2026-04-24T14:51:06Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-installer.sh"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 6166528,
       "digest": "sha256:b0595c45a4a87380666b8a93031d5b491991b9614d08ea0955e9a55268308afc",
-      "download_count": 229,
+      "download_count": 234,
       "created_at": "2026-04-24T14:51:06Z",
       "updated_at": "2026-04-24T14:51:07Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-pc-windows-msvc-update"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 10076032,
       "digest": "sha256:d4de347c53e2d25f9663780c93fdf26d156284c64d6a5ec4bcdb829f9994f6f3",
-      "download_count": 1726,
+      "download_count": 1751,
       "created_at": "2026-04-24T14:51:07Z",
       "updated_at": "2026-04-24T14:51:07Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-pc-windows-msvc.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 105,
       "digest": "sha256:2a7da12574b85a50f1a98e24fb8ed4f6e096eefac395c1349a7d103491e5d91d",
-      "download_count": 102,
+      "download_count": 106,
       "created_at": "2026-04-24T14:51:07Z",
       "updated_at": "2026-04-24T14:51:07Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-pc-windows-msvc.zip.sha256"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 9086448,
       "digest": "sha256:d7b03191f85eeabc4e2c524fc6cff12e831e30d59136d65af9d5aa6c26dcac29",
-      "download_count": 805,
+      "download_count": 828,
       "created_at": "2026-04-24T14:51:07Z",
       "updated_at": "2026-04-24T14:51:08Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu-update"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 8625112,
       "digest": "sha256:6b4c1010c84d1f4f06205ccef4597f1690bcd7744f46d841eee26426bc100485",
-      "download_count": 2458,
+      "download_count": 2489,
       "created_at": "2026-04-24T14:51:07Z",
       "updated_at": "2026-04-24T14:51:08Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 110,
       "digest": "sha256:4028a7c1fe789dea5f84e879a6dec00733cf042eff3ee7089bee3962fd923e19",
-      "download_count": 467,
+      "download_count": 468,
       "created_at": "2026-04-24T14:51:07Z",
       "updated_at": "2026-04-24T14:51:07Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 429,
       "digest": "sha256:035781c3dea7cac953f4fe91c5d919394ed85206524ec90de4a654e207783158",
-      "download_count": 58,
+      "download_count": 59,
       "created_at": "2026-04-24T14:51:07Z",
       "updated_at": "2026-04-24T14:51:07Z",
       "browser_download_url": "https://github.com/google/magika/releases/download/cli/v1.1.0/sha256.sum"
