@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,610 · **Forks**: 1,169 · **Open issues**: 637 · **Contributors**: 52
+- **Stars**: 18,621 · **Forks**: 1,168 · **Open issues**: 637 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 19 | 10 | 2 | 9 | 22 |
-| last60d | 2026-07-19 | 0 | 26 | 18 | 2 | 12 | 33 |
-| 90d | 2026-06-19 | 0 | 27 | 19 | 2 | 12 | 34 |
-| last180d | 2026-03-21 | 2 | 47 | 42 | 10 | 22 | 56 |
-| 360d | 2025-09-22 | 7 | 148 | 50 | 37 | 47 | 242 |
-| last720d | 2024-09-27 | 15 | 331 | 50 | 142 | 77 | 950 |
+| 30d | 2026-08-19 | 0 | 18 | 10 | 2 | 9 | 22 |
+| last60d | 2026-07-20 | 0 | 26 | 18 | 2 | 12 | 33 |
+| 90d | 2026-06-20 | 0 | 27 | 19 | 2 | 12 | 34 |
+| last180d | 2026-03-22 | 2 | 47 | 42 | 10 | 22 | 56 |
+| 360d | 2025-09-23 | 7 | 148 | 50 | 37 | 47 | 242 |
+| last720d | 2024-09-28 | 15 | 331 | 50 | 141 | 77 | 950 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:53:20Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:39:12Z._
