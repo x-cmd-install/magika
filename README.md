@@ -4,7 +4,7 @@
 
 Fast and accurate AI powered file content types detection 
 
-![magika](https://repo.x-cmd.io/magika.svg)
+[![x-cmd/install — magika Code Quality Monitoring Repo Card](https://repo.x-cmd.io/magika.svg)](https://x-cmd.com/install/magika)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,621 · **Forks**: 1,168 · **Open issues**: 637 · **Contributors**: 52
+- **Stars**: 18,627 · **Forks**: 1,167 · **Open issues**: 641 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 522 · **Open PRs**: 50 · **Closed issues**: 519 · **Open issues**: 118 · **Commits**: 1799
+- **Releases**: 15 · **Merged PRs**: 522 · **Open PRs**: 52 · **Closed issues**: 519 · **Open issues**: 122 · **Commits**: 1799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 18 | 10 | 2 | 9 | 22 |
-| last60d | 2026-07-20 | 0 | 26 | 18 | 2 | 12 | 33 |
-| 90d | 2026-06-20 | 0 | 27 | 19 | 2 | 12 | 34 |
-| last180d | 2026-03-22 | 2 | 47 | 42 | 10 | 22 | 56 |
-| 360d | 2025-09-23 | 7 | 148 | 50 | 37 | 47 | 242 |
-| last720d | 2024-09-28 | 15 | 331 | 50 | 141 | 77 | 950 |
+| 30d | 2026-08-21 | 0 | 18 | 12 | 2 | 13 | 22 |
+| last60d | 2026-07-22 | 0 | 25 | 19 | 2 | 16 | 33 |
+| 90d | 2026-06-22 | 0 | 26 | 21 | 2 | 16 | 34 |
+| last180d | 2026-03-24 | 2 | 46 | 44 | 10 | 26 | 56 |
+| 360d | 2025-09-25 | 7 | 148 | 52 | 37 | 51 | 242 |
+| last720d | 2024-09-30 | 15 | 331 | 52 | 141 | 81 | 945 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:39:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:29:54Z._
