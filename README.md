@@ -4,7 +4,7 @@
 
 Fast and accurate AI powered file content types detection 
 
-[![x-cmd/install — magika Code Quality Monitoring Repo Card](https://repo.x-cmd.io/magika.svg)](https://x-cmd.com/install/magika)
+[![x-cmd/install — magika Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/magika.svg)](https://x-cmd.com/install/magika)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,637 · **Forks**: 1,169 · **Open issues**: 641 · **Contributors**: 52
+- **Stars**: 18,643 · **Forks**: 1,170 · **Open issues**: 641 · **Contributors**: 52
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 522 · **Open PRs**: 52 · **Closed issues**: 519 · **Open issues**: 122 · **Commits**: 1799
+- **Releases**: 15 · **Merged PRs**: 522 · **Open PRs**: 53 · **Closed issues**: 519 · **Open issues**: 122 · **Commits**: 1799
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 18 | 12 | 2 | 13 | 22 |
-| last60d | 2026-07-24 | 0 | 25 | 19 | 2 | 16 | 32 |
-| 90d | 2026-06-24 | 0 | 26 | 21 | 2 | 16 | 33 |
-| last180d | 2026-03-26 | 2 | 46 | 43 | 10 | 26 | 56 |
-| 360d | 2025-09-27 | 7 | 148 | 52 | 37 | 51 | 232 |
-| last720d | 2024-10-02 | 15 | 330 | 52 | 141 | 81 | 945 |
+| 30d | 2026-08-24 | 0 | 18 | 13 | 2 | 13 | 22 |
+| last60d | 2026-07-25 | 0 | 25 | 20 | 2 | 16 | 32 |
+| 90d | 2026-06-25 | 0 | 26 | 22 | 2 | 16 | 33 |
+| last180d | 2026-03-27 | 2 | 46 | 44 | 10 | 26 | 56 |
+| 360d | 2025-09-28 | 7 | 148 | 53 | 37 | 51 | 232 |
+| last720d | 2024-10-03 | 15 | 330 | 53 | 141 | 81 | 944 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:43:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:51:37Z._

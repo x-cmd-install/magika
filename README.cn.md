@@ -4,7 +4,7 @@
 
 Fast and accurate AI powered file content types detection 
 
-[![x-cmd/install — magika Code Quality Monitoring Repo Card](https://repo.x-cmd.io/magika.svg?lang=zh)](https://x-cmd.com/install/magika)
+[![x-cmd/install — magika Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/magika.svg?lang=zh)](https://x-cmd.com/install/magika)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install magika
 
 ## 流行度
 
-- **Star**: 18,637 · **Fork**: 1,169 · **开放 issue**: 641 · **贡献者**: 52
+- **Star**: 18,643 · **Fork**: 1,170 · **开放 issue**: 641 · **贡献者**: 52
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 522 · **开放 PR**: 52 · **已关闭 issue**: 519 · **开放 issue**: 122 · **提交数**: 1799
+- **发布数**: 15 · **已合并 PR**: 522 · **开放 PR**: 53 · **已关闭 issue**: 519 · **开放 issue**: 122 · **提交数**: 1799
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 18 | 12 | 2 | 13 | 22 |
-| last60d | 2026-07-24 | 0 | 25 | 19 | 2 | 16 | 32 |
-| 90d | 2026-06-24 | 0 | 26 | 21 | 2 | 16 | 33 |
-| last180d | 2026-03-26 | 2 | 46 | 43 | 10 | 26 | 56 |
-| 360d | 2025-09-27 | 7 | 148 | 52 | 37 | 51 | 232 |
-| last720d | 2024-10-02 | 15 | 330 | 52 | 141 | 81 | 945 |
+| 30d | 2026-08-24 | 0 | 18 | 13 | 2 | 13 | 22 |
+| last60d | 2026-07-25 | 0 | 25 | 20 | 2 | 16 | 32 |
+| 90d | 2026-06-25 | 0 | 26 | 22 | 2 | 16 | 33 |
+| last180d | 2026-03-27 | 2 | 46 | 44 | 10 | 26 | 56 |
+| 360d | 2025-09-28 | 7 | 148 | 53 | 37 | 51 | 232 |
+| last720d | 2024-10-03 | 15 | 330 | 53 | 141 | 81 | 944 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ magika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:43:33Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:51:39Z._
