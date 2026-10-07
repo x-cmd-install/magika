@@ -30,9 +30,9 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Binary-Artifacts** (0/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Binary-Artifacts** (0/10) — binaries present in source code
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,698 · **Forks**: 1,173 · **Open issues**: 653 · **Contributors**: 52
+- **Stars**: 18,699 · **Forks**: 1,173 · **Open issues**: 653 · **Contributors**: 52
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 45 | 9 | 12 | 13 | 43 |
-| last60d | 2026-08-07 | 0 | 51 | 11 | 12 | 15 | 72 |
-| 90d | 2026-07-08 | 0 | 55 | 19 | 12 | 18 | 80 |
-| last180d | 2026-04-09 | 2 | 75 | 41 | 20 | 27 | 103 |
-| 360d | 2025-10-11 | 6 | 147 | 50 | 43 | 48 | 223 |
-| last720d | 2024-10-16 | 15 | 346 | 50 | 148 | 82 | 965 |
+| 30d | 2026-09-07 | 0 | 44 | 7 | 11 | 12 | 43 |
+| last60d | 2026-08-08 | 0 | 51 | 11 | 12 | 15 | 72 |
+| 90d | 2026-07-09 | 0 | 55 | 19 | 12 | 18 | 80 |
+| last180d | 2026-04-10 | 2 | 75 | 41 | 20 | 27 | 103 |
+| 360d | 2025-10-12 | 6 | 147 | 50 | 43 | 48 | 223 |
+| last720d | 2024-10-17 | 15 | 346 | 50 | 148 | 82 | 960 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:55:53Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:24:09Z._

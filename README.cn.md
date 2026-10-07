@@ -30,9 +30,9 @@ x install magika
 
 评分最低的几项:
 
-- **Binary-Artifacts** (0/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Binary-Artifacts** (0/10) — binaries present in source code
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install magika
 
 ## 流行度
 
-- **Star**: 18,698 · **Fork**: 1,173 · **开放 issue**: 653 · **贡献者**: 52
+- **Star**: 18,699 · **Fork**: 1,173 · **开放 issue**: 653 · **贡献者**: 52
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install magika
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 45 | 9 | 12 | 13 | 43 |
-| last60d | 2026-08-07 | 0 | 51 | 11 | 12 | 15 | 72 |
-| 90d | 2026-07-08 | 0 | 55 | 19 | 12 | 18 | 80 |
-| last180d | 2026-04-09 | 2 | 75 | 41 | 20 | 27 | 103 |
-| 360d | 2025-10-11 | 6 | 147 | 50 | 43 | 48 | 223 |
-| last720d | 2024-10-16 | 15 | 346 | 50 | 148 | 82 | 965 |
+| 30d | 2026-09-07 | 0 | 44 | 7 | 11 | 12 | 43 |
+| last60d | 2026-08-08 | 0 | 51 | 11 | 12 | 15 | 72 |
+| 90d | 2026-07-09 | 0 | 55 | 19 | 12 | 18 | 80 |
+| last180d | 2026-04-10 | 2 | 75 | 41 | 20 | 27 | 103 |
+| 360d | 2025-10-12 | 6 | 147 | 50 | 43 | 48 | 223 |
+| last720d | 2024-10-17 | 15 | 346 | 50 | 148 | 82 | 960 |
 
 ## Release 资产
 
@@ -95,4 +95,4 @@ magika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T07:55:54Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T07:24:10Z._
