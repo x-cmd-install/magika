@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 551 · **Open PRs**: 50 · **Closed issues**: 529 · **Open issues**: 124 · **Commits**: 1858
+- **Releases**: 15 · **Merged PRs**: 551 · **Open PRs**: 51 · **Closed issues**: 529 · **Open issues**: 124 · **Commits**: 1858
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 44 | 7 | 11 | 12 | 43 |
-| last60d | 2026-08-08 | 0 | 51 | 11 | 12 | 15 | 72 |
-| 90d | 2026-07-09 | 0 | 55 | 19 | 12 | 18 | 80 |
-| last180d | 2026-04-10 | 2 | 75 | 41 | 20 | 27 | 103 |
-| 360d | 2025-10-12 | 6 | 147 | 50 | 43 | 48 | 223 |
-| last720d | 2024-10-17 | 15 | 346 | 50 | 148 | 82 | 960 |
+| 30d | 2026-09-08 | 0 | 43 | 7 | 11 | 12 | 43 |
+| last60d | 2026-08-09 | 0 | 51 | 12 | 12 | 15 | 72 |
+| 90d | 2026-07-10 | 0 | 55 | 20 | 12 | 18 | 80 |
+| last180d | 2026-04-11 | 2 | 75 | 42 | 20 | 27 | 103 |
+| 360d | 2025-10-13 | 6 | 147 | 50 | 43 | 48 | 223 |
+| last720d | 2024-10-18 | 15 | 345 | 51 | 147 | 82 | 958 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:24:09Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:31:20Z._
