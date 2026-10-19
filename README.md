@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 37 | 4 | 10 | 7 | 48 |
-| last60d | 2026-08-19 | 0 | 58 | 12 | 17 | 15 | 84 |
-| 90d | 2026-07-20 | 0 | 66 | 19 | 17 | 18 | 95 |
-| last180d | 2026-04-21 | 2 | 83 | 31 | 20 | 23 | 115 |
-| 360d | 2025-10-23 | 6 | 147 | 45 | 47 | 48 | 227 |
-| last720d | 2024-10-28 | 15 | 351 | 46 | 150 | 81 | 966 |
+| 30d | 2026-09-19 | 0 | 37 | 4 | 10 | 7 | 40 |
+| last60d | 2026-08-20 | 0 | 58 | 12 | 17 | 15 | 84 |
+| 90d | 2026-07-21 | 0 | 66 | 19 | 17 | 18 | 94 |
+| last180d | 2026-04-22 | 2 | 83 | 31 | 20 | 23 | 107 |
+| 360d | 2025-10-24 | 6 | 147 | 45 | 47 | 48 | 209 |
+| last720d | 2024-10-29 | 15 | 351 | 46 | 150 | 80 | 963 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T05:46:04Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T05:54:22Z._
