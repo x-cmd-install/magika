@@ -14,13 +14,13 @@ x install magika
 
 ## 代码洞察
 
-合计: **64,496** 行代码（覆盖前 5 种语言、共 **184** 个文件）。
+合计: **64,835** 行代码（覆盖前 5 种语言、共 **186** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 30,661 | 0 | 0 | 54 |
-| Rust | 19,783 | 693 | 1,643 | 55 |
-| Python | 3,930 | 507 | 744 | 28 |
+| Rust | 20,083 | 730 | 1,679 | 57 |
+| Python | 3,930 | 534 | 744 | 28 |
 | TypeScript | 3,499 | 503 | 200 | 43 |
 | Yaml | 2,586 | 28 | 432 | 4 |
 
@@ -32,7 +32,7 @@ x install magika
 
 - **Binary-Artifacts** (0/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Pinned-Dependencies** (4/10) — dependency not pinned by hash detected -- score normalized to 4
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install magika
 ## 发布
 
 - **最新版本**: `cli-latest` (2026-04-24)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-10-22
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 18,737 · **Fork**: 1,184 · **开放 issue**: 658 · **贡献者**: 54
+- **Star**: 18,739 · **Fork**: 1,185 · **开放 issue**: 658 · **贡献者**: 54
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 564 · **开放 PR**: 48 · **已关闭 issue**: 534 · **开放 issue**: 124 · **提交数**: 1884
+- **发布数**: 15 · **已合并 PR**: 568 · **开放 PR**: 48 · **已关闭 issue**: 534 · **开放 issue**: 124 · **提交数**: 1892
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 39 | 6 | 10 | 7 | 42 |
-| last60d | 2026-08-23 | 0 | 60 | 14 | 17 | 15 | 86 |
-| 90d | 2026-07-24 | 0 | 67 | 20 | 17 | 18 | 96 |
-| last180d | 2026-04-25 | 0 | 83 | 33 | 19 | 22 | 109 |
-| 360d | 2025-10-27 | 6 | 148 | 47 | 47 | 48 | 211 |
-| last720d | 2024-11-01 | 15 | 350 | 48 | 148 | 80 | 967 |
+| 30d | 2026-09-23 | 0 | 40 | 6 | 10 | 7 | 47 |
+| last60d | 2026-08-24 | 0 | 64 | 14 | 17 | 15 | 91 |
+| 90d | 2026-07-25 | 0 | 71 | 20 | 17 | 18 | 101 |
+| last180d | 2026-04-26 | 0 | 87 | 33 | 19 | 22 | 114 |
+| 360d | 2025-10-28 | 6 | 152 | 47 | 47 | 48 | 216 |
+| last720d | 2024-11-02 | 15 | 354 | 48 | 148 | 80 | 968 |
 
 ## Release 资产
 
@@ -86,6 +86,16 @@ x install magika
 | [magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
 | [sha256.sum](https://github.com/google/magika/releases/download/cli/v1.1.0/sha256.sum) | 429 B | `other` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/magika) 上共有 **12** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `1.1.0` | ✅ latest |
+| Nix unstable | `1.0.3` | ⚠️ outdated |
+| Alpine edge | `1.1.0` | ✅ latest |
+
 ## 改进这些数据
 
 magika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `magika` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -95,4 +105,4 @@ magika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T06:01:43Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T06:08:42Z._
