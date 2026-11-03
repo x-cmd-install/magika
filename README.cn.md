@@ -31,8 +31,8 @@ x install magika
 评分最低的几项:
 
 - **Code-Review** (2/10) — Found 4/15 approved changesets -- score normalized to 2
-- **Binary-Artifacts** (0/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install magika
 ## 发布
 
 - **最新版本**: `cli-latest` (2026-04-24)
-- **最近提交**: 2026-11-01
+- **最近提交**: 2026-11-02
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 18,758 · **Fork**: 1,191 · **开放 issue**: 670 · **贡献者**: 54
+- **Star**: 18,761 · **Fork**: 1,191 · **开放 issue**: 670 · **贡献者**: 55
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 587 · **开放 PR**: 47 · **已关闭 issue**: 545 · **开放 issue**: 125 · **提交数**: 1941
+- **发布数**: 15 · **已合并 PR**: 588 · **开放 PR**: 46 · **已关闭 issue**: 546 · **开放 issue**: 124 · **提交数**: 1945
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 37 | 5 | 10 | 8 | 49 |
-| last60d | 2026-09-03 | 0 | 82 | 12 | 27 | 15 | 107 |
-| 90d | 2026-08-04 | 0 | 89 | 14 | 27 | 19 | 123 |
-| last180d | 2026-05-06 | 0 | 98 | 30 | 29 | 24 | 139 |
-| 360d | 2025-11-07 | 4 | 156 | 45 | 56 | 48 | 205 |
-| last720d | 2024-11-12 | 15 | 369 | 47 | 158 | 80 | 1004 |
+| 30d | 2026-10-04 | 0 | 37 | 5 | 10 | 8 | 49 |
+| last60d | 2026-09-04 | 0 | 81 | 12 | 27 | 15 | 107 |
+| 90d | 2026-08-05 | 0 | 88 | 14 | 27 | 19 | 123 |
+| last180d | 2026-05-07 | 0 | 97 | 30 | 29 | 24 | 139 |
+| 360d | 2025-11-08 | 4 | 156 | 44 | 55 | 48 | 206 |
+| last720d | 2024-11-13 | 15 | 370 | 46 | 159 | 79 | 1008 |
 
 ## Release 资产
 
@@ -105,4 +105,4 @@ magika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T07:44:35Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T08:22:52Z._

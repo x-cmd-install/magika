@@ -31,8 +31,8 @@ Overall score: **6 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (2/10) — Found 4/15 approved changesets -- score normalized to 2
-- **Binary-Artifacts** (0/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `cli-latest` (2026-04-24)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 18,758 · **Forks**: 1,191 · **Open issues**: 670 · **Contributors**: 54
+- **Stars**: 18,761 · **Forks**: 1,191 · **Open issues**: 670 · **Contributors**: 55
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 587 · **Open PRs**: 47 · **Closed issues**: 545 · **Open issues**: 125 · **Commits**: 1941
+- **Releases**: 15 · **Merged PRs**: 588 · **Open PRs**: 46 · **Closed issues**: 546 · **Open issues**: 124 · **Commits**: 1945
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 37 | 5 | 10 | 8 | 49 |
-| last60d | 2026-09-03 | 0 | 82 | 12 | 27 | 15 | 107 |
-| 90d | 2026-08-04 | 0 | 89 | 14 | 27 | 19 | 123 |
-| last180d | 2026-05-06 | 0 | 98 | 30 | 29 | 24 | 139 |
-| 360d | 2025-11-07 | 4 | 156 | 45 | 56 | 48 | 205 |
-| last720d | 2024-11-12 | 15 | 369 | 47 | 158 | 80 | 1004 |
+| 30d | 2026-10-04 | 0 | 37 | 5 | 10 | 8 | 49 |
+| last60d | 2026-09-04 | 0 | 81 | 12 | 27 | 15 | 107 |
+| 90d | 2026-08-05 | 0 | 88 | 14 | 27 | 19 | 123 |
+| last180d | 2026-05-07 | 0 | 97 | 30 | 29 | 24 | 139 |
+| 360d | 2025-11-08 | 4 | 156 | 44 | 55 | 48 | 206 |
+| last720d | 2024-11-13 | 15 | 370 | 46 | 159 | 79 | 1008 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:44:33Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:22:51Z._
