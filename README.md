@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,801 · **Forks**: 1,188 · **Open issues**: 675 · **Contributors**: 58
+- **Stars**: 18,808 · **Forks**: 1,188 · **Open issues**: 675 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 618 · **Open PRs**: 42 · **Closed issues**: 555 · **Open issues**: 120 · **Commits**: 2009
+- **Releases**: 15 · **Merged PRs**: 618 · **Open PRs**: 43 · **Closed issues**: 555 · **Open issues**: 120 · **Commits**: 2009
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 51 | 10 | 12 | 6 | 64 |
-| last60d | 2026-09-17 | 0 | 92 | 12 | 28 | 11 | 120 |
-| 90d | 2026-08-18 | 0 | 113 | 19 | 34 | 16 | 161 |
-| last180d | 2026-05-20 | 0 | 124 | 23 | 36 | 21 | 178 |
-| 360d | 2025-11-21 | 4 | 182 | 41 | 59 | 34 | 247 |
-| last720d | 2024-11-26 | 15 | 388 | 42 | 161 | 75 | 1035 |
+| 30d | 2026-10-18 | 0 | 51 | 11 | 12 | 6 | 64 |
+| last60d | 2026-09-18 | 0 | 90 | 13 | 24 | 11 | 120 |
+| 90d | 2026-08-19 | 0 | 112 | 20 | 34 | 16 | 161 |
+| last180d | 2026-05-21 | 0 | 124 | 24 | 36 | 21 | 178 |
+| 360d | 2025-11-22 | 4 | 182 | 42 | 59 | 34 | 247 |
+| last720d | 2024-11-27 | 15 | 388 | 43 | 161 | 75 | 1035 |
 
 ## Release assets
 
@@ -86,16 +86,6 @@ Lowest-scoring checks:
 | [magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
 | [sha256.sum](https://github.com/google/magika/releases/download/cli/v1.1.0/sha256.sum) | 429 B | `other` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/magika). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.1.0` | ✅ latest |
-| Nix unstable | `1.0.3` | ⚠️ outdated |
-| Alpine edge | `1.1.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `magika` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:52:07Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:56:57Z._
