@@ -14,25 +14,25 @@ x install magika
 
 ## Code insight
 
-Total: **78,934** lines of code across **223** files in the top 5 languages.
+Total: **80,570** lines of code across **223** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 32,592 | 1,518 | 2,811 | 96 |
+| Rust | 34,066 | 1,542 | 2,856 | 96 |
 | Json | 29,901 | 0 | 0 | 50 |
-| Python | 6,709 | 539 | 946 | 26 |
-| Yaml | 3,008 | 31 | 502 | 5 |
-| TypeScript | 2,548 | 588 | 233 | 46 |
+| Python | 6,865 | 540 | 969 | 26 |
+| Yaml | 3,008 | 32 | 502 | 5 |
+| TypeScript | 2,551 | 588 | 233 | 46 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.4 / 10**
+Overall score: **6.6 / 10**
 
 Lowest-scoring checks:
 
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Binary-Artifacts** (0/10) — binaries present in source code
-- **Vulnerabilities** (0/10) — 92 existing vulnerabilities detected
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `cli-latest` (2026-04-24)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-18
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 18,808 · **Forks**: 1,188 · **Open issues**: 675 · **Contributors**: 58
+- **Stars**: 18,840 · **Forks**: 1,191 · **Open issues**: 675 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 618 · **Open PRs**: 43 · **Closed issues**: 555 · **Open issues**: 120 · **Commits**: 2009
+- **Releases**: 15 · **Merged PRs**: 622 · **Open PRs**: 42 · **Closed issues**: 556 · **Open issues**: 119 · **Commits**: 2020
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 51 | 11 | 12 | 6 | 64 |
-| last60d | 2026-09-18 | 0 | 90 | 13 | 24 | 11 | 120 |
-| 90d | 2026-08-19 | 0 | 112 | 20 | 34 | 16 | 161 |
-| last180d | 2026-05-21 | 0 | 124 | 24 | 36 | 21 | 178 |
-| 360d | 2025-11-22 | 4 | 182 | 42 | 59 | 34 | 247 |
-| last720d | 2024-11-27 | 15 | 388 | 43 | 161 | 75 | 1035 |
+| 30d | 2026-10-20 | 0 | 53 | 10 | 13 | 5 | 72 |
+| last60d | 2026-09-20 | 0 | 94 | 12 | 25 | 10 | 128 |
+| 90d | 2026-08-21 | 0 | 116 | 19 | 35 | 15 | 169 |
+| last180d | 2026-05-23 | 0 | 128 | 23 | 37 | 20 | 186 |
+| 360d | 2025-11-24 | 4 | 186 | 40 | 60 | 33 | 255 |
+| last720d | 2024-11-29 | 15 | 389 | 42 | 162 | 74 | 1040 |
 
 ## Release assets
 
@@ -86,6 +86,16 @@ Lowest-scoring checks:
 | [magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
 | [sha256.sum](https://github.com/google/magika/releases/download/cli/v1.1.0/sha256.sum) | 429 B | `other` |
 
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/magika). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.1.0` | ✅ latest |
+| Nix unstable | `1.0.3` | ⚠️ outdated |
+| Alpine edge | `1.1.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `magika` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +105,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:56:57Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:37:09Z._
