@@ -14,25 +14,25 @@ x install magika
 
 ## 代码洞察
 
-合计: **80,570** 行代码（覆盖前 5 种语言、共 **223** 个文件）。
+合计: **80,287** 行代码（覆盖前 5 种语言、共 **221** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 34,066 | 1,542 | 2,856 | 96 |
+| Rust | 33,774 | 1,516 | 2,828 | 94 |
 | Json | 29,901 | 0 | 0 | 50 |
-| Python | 6,865 | 540 | 969 | 26 |
+| Python | 6,938 | 542 | 969 | 26 |
 | Yaml | 3,008 | 32 | 502 | 5 |
 | TypeScript | 2,551 | 588 | 233 | 46 |
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.6 / 10**
+总评分: **6.5 / 10**
 
 评分最低的几项:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Binary-Artifacts** (0/10) — binaries present in source code
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Vulnerabilities** (0/10) — 90 existing vulnerabilities detected
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install magika
 ## 发布
 
 - **最新版本**: `cli-latest` (2026-04-24)
-- **最近提交**: 2026-11-18
+- **最近提交**: 2026-11-19
 - **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 18,840 · **Fork**: 1,191 · **开放 issue**: 675 · **贡献者**: 58
+- **Star**: 18,846 · **Fork**: 1,192 · **开放 issue**: 675 · **贡献者**: 58
 
 ## 累计统计
 
-- **发布数**: 15 · **已合并 PR**: 622 · **开放 PR**: 42 · **已关闭 issue**: 556 · **开放 issue**: 119 · **提交数**: 2020
+- **发布数**: 15 · **已合并 PR**: 626 · **开放 PR**: 41 · **已关闭 issue**: 556 · **开放 issue**: 119 · **提交数**: 2028
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 53 | 10 | 13 | 5 | 72 |
-| last60d | 2026-09-20 | 0 | 94 | 12 | 25 | 10 | 128 |
-| 90d | 2026-08-21 | 0 | 116 | 19 | 35 | 15 | 169 |
-| last180d | 2026-05-23 | 0 | 128 | 23 | 37 | 20 | 186 |
-| 360d | 2025-11-24 | 4 | 186 | 40 | 60 | 33 | 255 |
-| last720d | 2024-11-29 | 15 | 389 | 42 | 162 | 74 | 1040 |
+| 30d | 2026-10-21 | 0 | 56 | 9 | 13 | 5 | 77 |
+| last60d | 2026-09-21 | 0 | 98 | 11 | 25 | 10 | 133 |
+| 90d | 2026-08-22 | 0 | 120 | 18 | 35 | 15 | 174 |
+| last180d | 2026-05-24 | 0 | 132 | 22 | 37 | 20 | 191 |
+| 360d | 2025-11-25 | 4 | 190 | 39 | 60 | 33 | 260 |
+| last720d | 2024-11-30 | 15 | 393 | 41 | 162 | 74 | 1046 |
 
 ## Release 资产
 
@@ -105,4 +105,4 @@ magika 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T10:37:10Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T10:20:05Z._
