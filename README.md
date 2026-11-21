@@ -14,7 +14,7 @@ x install magika
 
 ## Code insight
 
-Total: **80,287** lines of code across **221** files in the top 5 languages.
+Total: **80,299** lines of code across **221** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -30,9 +30,9 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Binary-Artifacts** (0/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Vulnerabilities** (0/10) — 90 existing vulnerabilities detected
+- **Binary-Artifacts** (0/10) — binaries present in source code
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -42,28 +42,28 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `cli-latest` (2026-04-24)
-- **Last commit**: 2026-11-19
+- **Latest**: `cli/v2.0.0-rc.0` (2026-04-24)
+- **Last commit**: 2026-11-20
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 18,846 · **Forks**: 1,192 · **Open issues**: 675 · **Contributors**: 58
+- **Stars**: 18,849 · **Forks**: 1,191 · **Open issues**: 675 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 15 · **Merged PRs**: 626 · **Open PRs**: 41 · **Closed issues**: 556 · **Open issues**: 119 · **Commits**: 2028
+- **Releases**: 16 · **Merged PRs**: 628 · **Open PRs**: 41 · **Closed issues**: 556 · **Open issues**: 119 · **Commits**: 2030
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 56 | 9 | 13 | 5 | 77 |
-| last60d | 2026-09-21 | 0 | 98 | 11 | 25 | 10 | 133 |
-| 90d | 2026-08-22 | 0 | 120 | 18 | 35 | 15 | 174 |
-| last180d | 2026-05-24 | 0 | 132 | 22 | 37 | 20 | 191 |
-| 360d | 2025-11-25 | 4 | 190 | 39 | 60 | 33 | 260 |
-| last720d | 2024-11-30 | 15 | 393 | 41 | 162 | 74 | 1046 |
+| 30d | 2026-10-22 | 1 | 54 | 9 | 13 | 5 | 79 |
+| last60d | 2026-09-22 | 1 | 100 | 11 | 25 | 10 | 135 |
+| 90d | 2026-08-23 | 1 | 122 | 18 | 35 | 15 | 176 |
+| last180d | 2026-05-25 | 1 | 134 | 22 | 37 | 20 | 193 |
+| 360d | 2025-11-26 | 5 | 192 | 39 | 60 | 33 | 262 |
+| last720d | 2024-12-01 | 16 | 395 | 41 | 162 | 74 | 1048 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:20:04Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T09:02:51Z._
