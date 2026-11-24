@@ -30,9 +30,9 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Binary-Artifacts** (0/10) — binaries present in source code
-- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Vulnerabilities** (0/10) — 90 existing vulnerabilities detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `cli/v2.0.0-rc.0` (2026-04-24)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-24
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 18,854 · **Forks**: 1,190 · **Open issues**: 675 · **Contributors**: 58
+- **Stars**: 18,855 · **Forks**: 1,190 · **Open issues**: 677 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 628 · **Open PRs**: 42 · **Closed issues**: 556 · **Open issues**: 119 · **Commits**: 2030
+- **Releases**: 16 · **Merged PRs**: 629 · **Open PRs**: 44 · **Closed issues**: 556 · **Open issues**: 121 · **Commits**: 2032
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 53 | 10 | 13 | 5 | 53 |
-| last60d | 2026-09-24 | 1 | 94 | 12 | 25 | 10 | 121 |
-| 90d | 2026-08-25 | 1 | 122 | 19 | 35 | 14 | 176 |
-| last180d | 2026-05-27 | 1 | 134 | 23 | 36 | 20 | 193 |
-| 360d | 2025-11-28 | 5 | 191 | 40 | 60 | 33 | 261 |
-| last720d | 2024-12-03 | 16 | 395 | 42 | 162 | 74 | 1048 |
+| 30d | 2026-10-25 | 1 | 54 | 12 | 13 | 7 | 54 |
+| last60d | 2026-09-25 | 1 | 90 | 14 | 24 | 10 | 122 |
+| 90d | 2026-08-26 | 1 | 123 | 21 | 35 | 16 | 177 |
+| last180d | 2026-05-28 | 1 | 135 | 25 | 36 | 22 | 194 |
+| 360d | 2025-11-29 | 5 | 192 | 42 | 60 | 35 | 262 |
+| last720d | 2024-12-04 | 16 | 396 | 44 | 162 | 76 | 1050 |
 
 ## Release assets
 
@@ -105,4 +105,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T11:04:06Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:35Z._
