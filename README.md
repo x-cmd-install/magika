@@ -30,9 +30,9 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Binary-Artifacts** (0/10) — binaries present in source code
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Vulnerabilities** (0/10) — 90 existing vulnerabilities detected
+- **Binary-Artifacts** (0/10) — binaries present in source code
+- **Signed-Releases** (0/10) — Project has not signed or included provenance with any releases.
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 18,855 · **Forks**: 1,190 · **Open issues**: 677 · **Contributors**: 58
+- **Stars**: 18,860 · **Forks**: 1,191 · **Open issues**: 677 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 54 | 12 | 13 | 7 | 54 |
-| last60d | 2026-09-25 | 1 | 90 | 14 | 24 | 10 | 122 |
-| 90d | 2026-08-26 | 1 | 123 | 21 | 35 | 16 | 177 |
-| last180d | 2026-05-28 | 1 | 135 | 25 | 36 | 22 | 194 |
-| 360d | 2025-11-29 | 5 | 192 | 42 | 60 | 35 | 262 |
-| last720d | 2024-12-04 | 16 | 396 | 44 | 162 | 76 | 1050 |
+| 30d | 2026-10-26 | 1 | 54 | 12 | 12 | 7 | 54 |
+| last60d | 2026-09-26 | 1 | 90 | 14 | 24 | 10 | 122 |
+| 90d | 2026-08-27 | 1 | 123 | 21 | 35 | 16 | 177 |
+| last180d | 2026-05-29 | 1 | 135 | 25 | 36 | 22 | 194 |
+| 360d | 2025-11-30 | 5 | 192 | 42 | 60 | 35 | 262 |
+| last720d | 2024-12-05 | 16 | 396 | 44 | 162 | 75 | 1050 |
 
 ## Release assets
 
@@ -86,16 +86,6 @@ Lowest-scoring checks:
 | [magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256](https://github.com/google/magika/releases/download/cli/v1.1.0/magika-cli-x86_64-unknown-linux-gnu.tar.xz.sha256) | 110 B | `native/linux/x64/glibc` |
 | [sha256.sum](https://github.com/google/magika/releases/download/cli/v1.1.0/sha256.sum) | 429 B | `other` |
 
-## Distribution status
-
-Reported by **12** distros on [repology.org](https://repology.org/project/magika). **5** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.1.0` | ✅ latest |
-| Nix unstable | `1.0.3` | ⚠️ outdated |
-| Alpine edge | `1.1.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `magika` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -105,4 +95,4 @@ Install metadata for magika lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:48:35Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:54:27Z._
